@@ -1,0 +1,32 @@
+[
+  {
+    "src": "images/my-first-artwork.jpg",
+    "alt": "A description of my first artwork for screen readers",
+    "title": "My First Artwork",
+    "artist": "Your Name"
+  },
+  {
+    "src": "images/my-second-artwork.jpg",
+    "alt": "A description of my second piece",
+    "title": "My Second Artwork",
+    "artist": "Your Name"
+  },
+  {
+    "src": "images/another-piece.png",
+    "alt": "A description of another one of my artworks",
+    "title": "Another Piece",
+    "artist": "Your Name"
+  },
+  {
+    "src": "images/the-best-one.jpg",
+    "alt": "A description of my best artwork",
+    "title": "The Best One",
+    "artist": "Your Name"
+  },
+  {
+    "src": "images/final-artwork.jpg",
+    "alt": "A description of the final piece in the collection",
+    "title": "Final Artwork",
+    "artist": "Your Name"
+  }
+]
