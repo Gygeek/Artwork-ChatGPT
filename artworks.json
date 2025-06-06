@@ -1,32 +1,149 @@
 [
   {
-    "src": "images/my-first-artwork.jpg",
-    "alt": "A description of my first artwork for screen readers",
-    "title": "My First Artwork",
-    "artist": "Your Name"
+    "src": "images/Silouette.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
   },
   {
-    "src": "images/my-second-artwork.jpg",
-    "alt": "A description of my second piece",
-    "title": "My Second Artwork",
-    "artist": "Your Name"
+    "src": "images/bluechaos.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
   },
   {
-    "src": "images/another-piece.png",
-    "alt": "A description of another one of my artworks",
-    "title": "Another Piece",
-    "artist": "Your Name"
+    "src": "images/growth.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
   },
   {
-    "src": "images/the-best-one.jpg",
-    "alt": "A description of my best artwork",
-    "title": "The Best One",
-    "artist": "Your Name"
+    "src": "images/dance.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
   },
   {
-    "src": "images/final-artwork.jpg",
-    "alt": "A description of the final piece in the collection",
-    "title": "Final Artwork",
-    "artist": "Your Name"
+    "src": "images/flight.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/winterchaos.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/equine.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/pencildwelling.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/waterbunny.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/pencildance.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/doodle4.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/equineabstract.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/kimsship.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/doodle3.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/doodle2.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/doodle1.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/electronchaos.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/ghosted.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/guitarfrenzy.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/steed.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
+  },
+  {
+    "src": "images/dance.webp",
+    "alt": "Oil on Canvas",
+    "title": "A Silouette",
+    "disposition": "Sold",
+    "artist": "Steve"
   }
 ]
